@@ -1,0 +1,39 @@
+{
+  "status": "SYNTHETIC only; grid envelope, not certified sharp continuum bounds",
+  "observed_Y_by_R": [
+    [
+      0.8240799999999999,
+      0.023919999999999997
+    ],
+    [
+      0.08632000000000004,
+      0.06568
+    ]
+  ],
+  "true_parameters": [
+    0.12,
+    0.6,
+    0.02
+  ],
+  "assumed_alpha_range": [
+    0.85,
+    0.95
+  ],
+  "assumed_beta_range": [
+    0.93,
+    0.98
+  ],
+  "grid_step": 0.001,
+  "beta_grid_step": 0.0005,
+  "feasible_grid_points": 10201,
+  "grid_min_p_q_f": [
+    0.09318181818181828,
+    0.4839999999999999,
+    0.01501432664756446
+  ],
+  "grid_max_p_q_f": [
+    0.15903614457831328,
+    0.7244878048780482,
+    0.0243609022556391
+  ]
+}
